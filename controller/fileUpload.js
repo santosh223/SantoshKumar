@@ -1,6 +1,6 @@
 
 
-const File = require("../model/File");
+const File = require("../model/file");
 const cloudinary = require("cloudinary").v2;
 const { sendEmail } = require("../service/email");
 
